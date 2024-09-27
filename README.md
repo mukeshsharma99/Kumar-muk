@@ -56,5 +56,3 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumar-muk&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Current Streak"/>
 </p>
-
----
