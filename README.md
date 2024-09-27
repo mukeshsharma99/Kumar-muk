@@ -52,10 +52,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumar-muk&show_icons=true&locale=en" alt="kumar-muk" /></p>
 
 ---
-### 🔥 GitHub Streak:
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumar-muk&" alt="kumar-muk" /></p>
-
----
 ### 🎯 Total Contributions and Streaks:
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumar-muk&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Current Streak"/>
