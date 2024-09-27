@@ -8,7 +8,6 @@
 </p>
 
 ---
-
 ### 📫 Connect with me:
 <p align="left">
   <a href="https://linkedin.com/in/mukesh-sharma99" target="blank">
@@ -23,7 +22,6 @@
 </p>
 
 ---
-
 ### 🛠️ Languages and Tools:
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -50,17 +48,14 @@
 </p>
 
 ---
-
 ### 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumar-muk&show_icons=true&locale=en" alt="kumar-muk" /></p>
 
 ---
-
 ### 🔥 GitHub Streak:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumar-muk&" alt="kumar-muk" /></p>
 
 ---
-
 ### 🎯 Total Contributions and Streaks:
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumar-muk&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Current Streak"/>
