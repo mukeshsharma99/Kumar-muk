@@ -41,10 +41,6 @@
 </p>
 
 ---
-### 🔥 Most Used Languages:
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kumar-muk&show_icons=true&locale=en&layout=compact" alt="kumar-muk" /></p>
-
----
 ### 📊 GitHub Stats:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumar-muk&show_icons=true&locale=en" alt="kumar-muk" /></p>
 
