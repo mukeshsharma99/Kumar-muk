@@ -17,7 +17,7 @@ I’m passionate about technology, coding, and sharing knowledge with the commun
 
 ## Socials and Links
 
-[![Website](https://img.shields.io/badge/Website-shumbularifa.com-blue?style=flat-square&logo=google-chrome)](https://shumbularifa.com)
+[![Website](https://linktr.ee/mukesh10400)
 [![YouTube](https://img.shields.io/badge/YouTube-Shumbul-red?style=flat-square&logo=youtube)](https://youtube.com/shumbul)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shumbul-blue?style=flat-square&logo=linkedin)](https://linkedin.com/in/shumbul)
 [![Instagram](https://img.shields.io/badge/Instagram-shumbul--blog-pink?style=flat-square&logo=instagram)](https://instagram.com/shumbul_blog)
