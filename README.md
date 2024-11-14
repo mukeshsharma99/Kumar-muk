@@ -1,36 +1,58 @@
-# 👋 Hello! I'm Mukesh Sharma
+<h1 align="center">Hi 👋, I'm Mukesh Sharma</h1>
+<h3 align="center">I am a Data Science Aspirant. Interested in learning and implementing new skills.</h3>
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_IMy3xPh1fdA4PE7Yg6vYOoMG7Za4TV2-jA&s">
 
-## 📝 About Me
-I’m a **Data Scientist** and **IT professional** with a keen interest in solving complex problems through **Machine Learning** and **Data Analysis**. I'm constantly learning and implementing new skills in data science, and I’m eager to explore **NLP**, **computer vision**, **quantum computing**, and **edge AI**.
 
-- 💡 Currently, I’m working on building and deploying machine learning models for **Financial Risk Analysis** and **Industrial Applications**.
-- 📈 I love working on data-driven projects and uncovering insights that support decision-making.
-- 🎓 Open to collaboration on **machine learning projects** and **data science competitions**.
-
----
-
-## 🛠 Skills
-
-- **Languages & Tools**: Python, SQL, Pandas, NumPy, Scikit-learn, TensorFlow, Matplotlib, Seaborn, Plotly, MySQL, MongoDB
-- **Machine Learning Techniques**: Classification, Clustering, Regression, NLP, Computer Vision
-- **Data Analysis**: Data Cleaning, Preprocessing, Feature Engineering, Statistical Analysis, Data Visualization
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=kumar-muk&label=Profile%20views&color=0e75b6&style=flat" alt="kumar-muk" /> 
+</p>
 
 ---
-
-## 🌐 Connect with Me
-
-- **LinkedIn**: [Mukesh Sharma](https://linkedin.com/in/mukeshsharma)
-- **GitHub**: [mukesh10400](https://github.com/mukesh10400)
-- **Kaggle**: [Mukesh Sharma](https://kaggle.com/mukesh10400)
-- **HackerRank**: [Mukesh Sharma](https://www.hackerrank.com/mukesh10400)
-- **LeetCode**: [Mukesh Sharma](https://leetcode.com/mukesh10400)
-
----
-
-## 📊 GitHub Stats
-
-![Mukesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mukesh10400&show_icons=true&theme=radical)
+### 📫 Connect with me:
+<p align="left">
+  <a href="https://linkedin.com/in/mukesh-sharma99" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/mukesh-sharma99" height="30" width="40" />
+  </a>
+  <a href="https://www.kaggle.com/m1ukesh" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="m1ukesh" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/mukesh10400" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mukesh10400" height="30" width="40" />
+  </a>
+</p>
 
 ---
+### 🛠️ Languages and Tools:
+<p align="left">
+  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="30" height="30" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="30" height="30" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="30" height="30" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="30" height="30" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30" style="margin-right: 10px;"/>
+  </a>
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="30" height="30" style="margin-right: 10px;"/>
+  </a>
+</p>
 
-Thank you for stopping by! 😊 Feel free to check out my repositories and get in touch!
+---
+### 📊 GitHub Stats:
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kumar-muk&show_icons=true&locale=en" alt="kumar-muk" /></p>
+
+---
+### 🎯 Total Contributions and Streaks:
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kumar-muk&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" alt="Current Streak"/>
+</p>
