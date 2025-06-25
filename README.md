@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mukesh Sharma</h1>
 <h3 align="center">I am a Data Science Aspirant. Interested in learning and implementing new skills.</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_IMy3xPh1fdA4PE7Yg6vYOoMG7Za4TV2-jA&s">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_IMy3xPh1fdA4PE7Yg6vYOoMG7Za4TV2-jA&s"> 
 
 
 <p align="left"> 
