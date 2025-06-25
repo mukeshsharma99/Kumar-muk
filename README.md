@@ -4,7 +4,7 @@
 
 
 <p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=kumar-muk&label=Profile%20views&color=0e75b6&style=flat" alt="kumar-muk" /> 
+  <img src="https://komarev.com/ghpvc/?username=kumar-muk&label=Profile%20views&color=0e75b6&style=flat" alt="kumar-muk" />  
 </p>
 
 ---
